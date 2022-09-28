@@ -1,0 +1,7 @@
+print("Hello")
+print("What's your name?")
+a=input()
+print("Hello,", a)
+print("How are you?")
+b=input()
+print("Me too")
